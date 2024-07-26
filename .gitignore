@@ -1,0 +1,67 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+.Rproj.user/**
+
+# RStudio Project Files
+*.Rproj
+
+# RStudio settings
+.Rprofile
+.Renviron
+
+# Packages
+.Rlibs/
+.Rlibrary/
+
+# Data files
+*.csv
+*.tsv
+*.tab
+*.xlsx
+*.xls
+
+# Code dependencies
+.Rbuildignore
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Other system files
+.DS_Store
+Thumbs.db
+
+# Knitr and RMarkdown
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
+
+# Bookdown files
+_bookdown_files/
+
+# Output directories
+/_book/
