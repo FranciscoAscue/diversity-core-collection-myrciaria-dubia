@@ -99,7 +99,3 @@ CAMU_R <- genind_object(Wp_data, metadata = mapa_ind_tree_sp)
 mfd_sp <- dapc_plots(CAMU = CAMU_R, mapa_ind_tree = mapa_ind_tree_sp, core = core, palette = my_pal2)
 mfd_sp
 ```
-
-## Acknowledgments
-
--
