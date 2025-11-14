@@ -99,3 +99,7 @@ CAMU_R <- genind_object(Wp_data, metadata = mapa_ind_tree_sp)
 mfd_sp <- dapc_plots(CAMU = CAMU_R, mapa_ind_tree = mapa_ind_tree_sp, core = core, palette = my_pal2)
 mfd_sp
 ```
+
+## Article available
+
+https://www.mdpi.com/1999-4907/15/11/1873 
